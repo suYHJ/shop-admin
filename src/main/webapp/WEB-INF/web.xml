@@ -23,7 +23,7 @@
     <init-param>
 <!--     指定配置类 -->
         <param-name>contextConfigLocation</param-name>
-        <param-value>springmvctest.config.AppConfig</param-value>
+        <param-value>shopadmin.config.AppConfig</param-value>
     </init-param>
   </servlet>
   <servlet-mapping>
